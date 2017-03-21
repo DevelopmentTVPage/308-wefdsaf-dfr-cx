@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Damian Stage erewrsdf"
+baseURL = "https:\/\/wefdsaf.dfr.cx"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
